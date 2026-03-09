@@ -1,5 +1,7 @@
 # Causal Analysis of Marijuana and Cigarette Use on Health
 
+University project for **DS839 – Causal Analysis in Business Data Science**.
+
 ## Project Overview
 
 This project investigates the **causal effect of marijuana consumption and cigarette smoking on individual health outcomes** using observational data from the **NHANES (National Health and Nutrition Examination Survey)** dataset.
@@ -153,5 +155,5 @@ While multiple causal inference techniques support these findings, results shoul
 ---
 
 ## Author
+Princess Victoria Jella
 
-University project for **DS839 – Causal Analysis in Business Data Science**.
